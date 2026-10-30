@@ -1,3 +1,4 @@
+![YVAA Banner](images/yvaa-banner.png)
 # Youth Voices for Antimicrobial Awareness (YVAA)
 
 **A youth-led initiative promoting antimicrobial resistance awareness and responsible antimicrobial use.**
